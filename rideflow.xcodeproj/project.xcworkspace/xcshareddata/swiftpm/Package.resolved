@@ -1,0 +1,87 @@
+{
+  "originHash" : "7f350f07db27b59548c61ccb80709317fcc7beb7a5a677662200d3cc07ed33f8",
+  "pins" : [
+    {
+      "identity" : "charts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danielgindi/Charts.git",
+      "state" : {
+        "revision" : "dd9c72e3d7e751e769971092a6bd72d39198ae63",
+        "version" : "5.1.0"
+      }
+    },
+    {
+      "identity" : "coredatastorage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/avdyushin/CoreDataStorage",
+      "state" : {
+        "revision" : "87b9d2b695449caa014a7733f1e9257197652cbe",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "injected",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/avdyushin/Injected",
+      "state" : {
+        "revision" : "b58d7b8216610dc8c3bb971394437c998f13625e",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "localizable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/avdyushin/Localizable",
+      "state" : {
+        "revision" : "0bdc52373db8662cf32a6a4f8964aaabbfa1b0e7",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "networkimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gonzalezreal/NetworkImage",
+      "state" : {
+        "revision" : "2849f5323265386e200484b0d0f896e73c3411b9",
+        "version" : "6.0.1"
+      }
+    },
+    {
+      "identity" : "pageview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/avdyushin/PageView",
+      "state" : {
+        "revision" : "4e87b799c30b170988cc37356e7a72f9fd811fc4",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "splitview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/avdyushin/SplitView",
+      "state" : {
+        "revision" : "30ac004dd5668499f055981c462d856b9e35c3b2",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "swift-cmark",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-cmark",
+      "state" : {
+        "revision" : "3ccff77b2dc5b96b77db3da0d68d28068593fa53",
+        "version" : "0.5.0"
+      }
+    },
+    {
+      "identity" : "swift-markdown-ui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gonzalezreal/swift-markdown-ui",
+      "state" : {
+        "revision" : "5f613358148239d0292c0cef674a3c2314737f9e",
+        "version" : "2.4.1"
+      }
+    }
+  ],
+  "version" : 3
+}

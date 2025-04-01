@@ -1,5 +1,38 @@
+# macOS系统文件
 .DS_Store
+
+# Swift包管理器
 /.build
 /Packages
-/*.xcodeproj
+
+# Xcode用户特定文件
 xcuserdata/
+
+# Xcode自动生成的文件
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# CocoaPods
+Pods/
+
+# 构建产物
+build/
+*.o
+*.d
+
+# 本地配置文件（如果有）
+# Config.local.swift
+
+# 大型二进制文件（如果不使用Git LFS）
+# *.mlmodel
+# *.mlpackage
+
+# 保留项目文件
+!rideflow.xcodeproj/
+!rideflow.xcodeproj/project.pbxproj
+!rideflow.xcodeproj/xcshareddata/
+
