@@ -1,0 +1,4 @@
+module MLCEngineObjC {
+    umbrella "/Users/chenjianyu/Iosworkspace/Velik/MLCSwift/Sources/ObjC/include"
+    export *
+}

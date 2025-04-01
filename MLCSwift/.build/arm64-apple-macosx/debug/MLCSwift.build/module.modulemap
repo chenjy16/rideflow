@@ -1,0 +1,4 @@
+module MLCSwift {
+    header "/Users/chenjianyu/Iosworkspace/Velik/MLCSwift/.build/arm64-apple-macosx/debug/MLCSwift.build/MLCSwift-Swift.h"
+    requires objc
+}

@@ -1,0 +1,10 @@
+/Users/chenjianyu/Iosworkspace/mlc-llm/ios/MLCChat/build/tokenizers/aarch64-apple-ios/release/deps/libppv_lite86-bc0226e59dff4171.rmeta: /Users/chenjianyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/lib.rs /Users/chenjianyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/soft.rs /Users/chenjianyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/types.rs /Users/chenjianyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/generic.rs
+
+/Users/chenjianyu/Iosworkspace/mlc-llm/ios/MLCChat/build/tokenizers/aarch64-apple-ios/release/deps/libppv_lite86-bc0226e59dff4171.rlib: /Users/chenjianyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/lib.rs /Users/chenjianyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/soft.rs /Users/chenjianyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/types.rs /Users/chenjianyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/generic.rs
+
+/Users/chenjianyu/Iosworkspace/mlc-llm/ios/MLCChat/build/tokenizers/aarch64-apple-ios/release/deps/ppv_lite86-bc0226e59dff4171.d: /Users/chenjianyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/lib.rs /Users/chenjianyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/soft.rs /Users/chenjianyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/types.rs /Users/chenjianyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/generic.rs
+
+/Users/chenjianyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/lib.rs:
+/Users/chenjianyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/soft.rs:
+/Users/chenjianyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/types.rs:
+/Users/chenjianyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/generic.rs:

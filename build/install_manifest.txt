@@ -1,0 +1,5 @@
+/Users/chenjianyu/Iosworkspace/mlc-llm/ios/MLCChat/build/lib/libmlc_llm.a
+/Users/chenjianyu/Iosworkspace/mlc-llm/ios/MLCChat/build/lib/libtokenizers_cpp.a
+/Users/chenjianyu/Iosworkspace/mlc-llm/ios/MLCChat/build/lib/libsentencepiece.a
+/Users/chenjianyu/Iosworkspace/mlc-llm/ios/MLCChat/build/lib/libtvm_runtime.a
+/Users/chenjianyu/Iosworkspace/mlc-llm/ios/MLCChat/build/lib/libtokenizers_c.a
